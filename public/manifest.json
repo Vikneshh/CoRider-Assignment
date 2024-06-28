@@ -1,0 +1,22 @@
+{
+    "name": "CoRider Assignment",
+    "short_name": "CoRider",
+    "description": "A Chat Application UI",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/earth-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/earth-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff"
+  }
+  
